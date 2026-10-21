@@ -4,8 +4,8 @@ Kunci jawaban **Tes Frontend Sharing Vision 2023 (Dashboard)**: dashboard artike
 berbasis React (JavaScript) + Vite + Tailwind CSS v4 yang memakai API backend Go/Gin
 (`/article`).
 
-- Live (Vercel): <!-- fill in --> `https://...vercel.app`
-- Backend API: <!-- fill in --> `https://...`
+- Live (Vercel): https://frontend-sharingvision-samuelchrist.vercel.app
+- Backend API: https://backend-sharingvision-samuelchristy.vercel.app ([repo](https://github.com/samuelsihotang1/backend-sharingvision-samuelchristyangiesihotang))
 
 ## Pemetaan soal ke kode
 
